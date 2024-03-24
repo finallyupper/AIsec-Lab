@@ -1,4 +1,3 @@
-# AIsec-Lab
 ## Introduction
 Purpose of this code is to preprocess the given dataset to fit the given paper. The input data is already splitted into superior/inferior dataset that includes instances (no ack, empty files)(Total 200 sites with 50000 instances).  It supports to preprocess dataset into two configurations. Details can be found in the [paper](https://people.cs.umass.edu/~amir/papers/CCS23-SSL-Web-Fingerprint.pdf) [1]
 ## Usage Examples
